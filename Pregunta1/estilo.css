@@ -1,0 +1,70 @@
+
+.principal{
+    display: flex;
+}
+
+
+.principal>img{
+    padding-left: 50px;
+    padding-right: 30px;
+}
+.principal>p{
+    padding-left: 10px;
+}
+.segundo{
+    height: 700px;
+    width: 1900px;
+    background-image: url(img/banner.jpg);
+    color: white;
+}
+.segundo>h1{
+    margin-left:100px;
+    padding-top:200px ;
+    margin-bottom: 0px;
+}
+.texto{
+    font-size: 30px;
+    width: 580px;
+    padding-top:10px ;
+    margin-left:100px;
+    margin-top: 2px;
+}
+.segundo>button{
+    font-size: 20px;
+    margin-left:100px;
+    background-color: #9BF00B;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.imagen{
+    padding-top: 10px;
+    height: 800px;
+}
+.list{
+    list-style-type: circle;
+}
+
+.texto{
+    color: white;
+}
+p{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.tercero{
+    display: flex;
+    padding-left: 80px;
+}
+.cuarto{
+
+    display: flex;
+    background-color: #F2F2F2;
+}
+.cuarto>ol{
+    padding-left: 60px;
+}
+.cuarto>ol>li{
+    list-style-type: none;
+}
+.ultimo{
+    margin-left: 60px;
+}
